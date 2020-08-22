@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434103714819",
+    "firebase_url": "https://databasep-84c23.firebaseio.com",
+    "project_id": "databasep-84c23",
+    "storage_bucket": "databasep-84c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434103714819:android:f8e100a623d945d5f8ba36",
+        "android_client_info": {
+          "package_name": "com.example.firebase_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434103714819-c3thdoo6qoleoqu3qk8icl1e5r6gg1j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcX_NLGPWWUQxOtw3Kv-R-xEVPmw9EdFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434103714819-c3thdoo6qoleoqu3qk8icl1e5r6gg1j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
